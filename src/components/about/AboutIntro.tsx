@@ -27,7 +27,7 @@ export default function AboutIntro() {
             <strong>ChairmanMediaHouse</strong> é uma empresa de fotografia e
             videografia de alto nível, sediada em Midrand, Gauteng, África do
             Sul. Fundada pelo fotógrafo profissional{" "}
-            <strong>Ismail 'Chairman' Essak</strong>, o estúdio é reconhecido
+            <strong>Ismail (Chairman) Essak</strong>, o estúdio é reconhecido
             pelo olhar apurado, criatividade e excelência na captura de momentos
             únicos.
           </p>
